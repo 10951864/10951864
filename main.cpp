@@ -1,3 +1,4 @@
+//I did the work myself
 # include<iostream>
 using namespace std;
 void AverageOfPNum(){
